@@ -1,6 +1,5 @@
 
-
-![my_video](https://user-images.githubusercontent.com/108272222/228519649-a8596464-d539-40ef-8d59-02c233d32c5b.mp4)
+![Blue Yellow Retro Quotes Twitter Header](https://user-images.githubusercontent.com/108272222/228521146-e12888c0-6e1a-4c7e-ab19-b8515ce789b4.gif)
 
 # JS-Challenges
 Frontend 1st Team
