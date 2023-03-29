@@ -28,4 +28,4 @@ Team Member
 [고승용](https://github.com/seungyonggo)
 <br>
 <br>
-[심재원](https://github.com/Jaewon)
+[심재원](https://github.com/GrayHound0801)
